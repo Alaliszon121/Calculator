@@ -1,0 +1,1 @@
+C:\Users\isabe\source\repos\Calculator\Calculator\Calculator.csproj;x64
