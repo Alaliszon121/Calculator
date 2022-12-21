@@ -95,7 +95,7 @@ To funcja typu void, znajdująca się w pliku CalculatorPage.xaml.cs. Odpowiada 
 * Zabezpieczenie przed próbą podzielenia przez 0
 * Wyzerowanie zmiennych
   
-![CalculateAndSave](images/cas7.PNG)
+![CalculateAndSave](images/cas7.png)
 ___
 
 ### Funkcje kalkulatora naukowego
