@@ -122,7 +122,7 @@ ___
 ### Przykładowe działanie programu: 
 
 * Odejmowanie  
-https://user-images.githubusercontent.com/67004275/208857674-c15b5dc4-524a-4718-86c9-c5a89597ef5f.mp4
+https://user-images.githubusercontent.com/67004275/208858077-e055f055-6043-4bf5-8986-55237992124d.mp4
 
 * Mnożenie  
 https://user-images.githubusercontent.com/67004275/208857706-714954fc-b0d8-4fd8-80dd-d821d602e7ed.mp4
