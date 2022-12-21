@@ -122,18 +122,18 @@ ___
 ### Przykładowe działanie programu: 
 
 * Odejmowanie  
-![Odejmwanie](images/minus.mp4)
+![Odejmowanie](images/minus.mp4)
 
 * Mnożenie  
 ![Mnożenie](images/mnozenie.mp4)
 
 * Próba dzielenia przez 0  
-![Odejmwanie](images/dzielenie0.mp4)
+![Dzielenie przez 0](images/dzielenie0.mp4)
 
-* Historia działań po otwarciu i zamknięciu programu  
-![Odejmwanie](images/historia.mp4)
+* Historia obliczeń po otwarciu i zamknięciu programu  
+![HIstoria obliczeń](images/historia.mp4)
 
 * Logarytm  
-![Odejmwanie](images/log.PNG)
+![Logarytm](images/log.PNG)
 
 ___
