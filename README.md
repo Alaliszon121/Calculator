@@ -122,16 +122,16 @@ ___
 ### Przykładowe działanie programu: 
 
 * Odejmowanie  
-![Odejmowanie](images/minus.mp4)
+https://user-images.githubusercontent.com/67004275/208857674-c15b5dc4-524a-4718-86c9-c5a89597ef5f.mp4
 
 * Mnożenie  
-![Mnożenie](images/mnozenie.mp4)
+https://user-images.githubusercontent.com/67004275/208857706-714954fc-b0d8-4fd8-80dd-d821d602e7ed.mp4
 
 * Próba dzielenia przez 0  
-![Dzielenie przez 0](images/dzielenie0.mp4)
+https://user-images.githubusercontent.com/67004275/208857763-3eadf2e6-0716-47c1-b79f-59cf989c013d.mp4
 
 * Historia obliczeń po otwarciu i zamknięciu programu  
-![HIstoria obliczeń](images/historia.mp4)
+https://user-images.githubusercontent.com/67004275/208857793-942ee96f-6a6b-4508-87c2-2b302634b2b3.mp4
 
 * Logarytm  
 ![Logarytm](images/log.PNG)
