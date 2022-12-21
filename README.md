@@ -108,7 +108,7 @@ ___
 * **OnPower()**: Oblicza potęgę kwadratową z liczby
 * **OnDenominator()**: Oblicza ułamek, gdzie licznikiem jest 1 a mianowanikiem liczba z równania
 * **OnPercentage()**: Zamienia procent na liczbę
-* Wszystkie powyższe funkcje dodają wynik do historii obliczeń równania i wywołują funkcję **SaveHistory(string)** z argumentem, który jest ciągiem znaów zawierającym równanie
+* Wszystkie powyższe funkcje dodają wynik do historii obliczeń równania i wywołują funkcję **SaveHistory(string)** z argumentem, który jest ciągiem znaków zawierającym równanie
 ___
 
 ### SaveHistory(string)
